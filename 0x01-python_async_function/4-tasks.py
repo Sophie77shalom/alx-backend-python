@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" 4. Tasks
+""" Task 4.
 """
 
 import asyncio
